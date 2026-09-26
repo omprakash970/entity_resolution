@@ -1,0 +1,7 @@
+# Ignore dataset contents
+dataset/test/*
+dataset/train/*
+
+# Keep the folders themselves in GitHub
+!dataset/test/.gitignore
+!dataset/train/.gitignore
